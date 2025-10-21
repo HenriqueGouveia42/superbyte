@@ -51,7 +51,7 @@ class Telas:
             self.superficie_tela_principal.fill((30, 30, 30))
 
             # Título
-            texto_titulo = fonte_titulo.render("FLAPPY BYTE", True, (255, 255, 0))
+            texto_titulo = fonte_titulo.render("SUPER BYTE", True, (255, 255, 0))
             rect_titulo = texto_titulo.get_rect(center=(self.largura_tela_principal//2, 150))
             self.superficie_tela_principal.blit(texto_titulo, rect_titulo)
 
