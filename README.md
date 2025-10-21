@@ -1,6 +1,6 @@
 # SUPER BYTE
 
-Um jogo 2D de estilo arcade desenvolvido em Python com a biblioteca Pygame, onde você deve ir o mais longe possível com o super cão, desviando os obstáculos!.
+Um viciante endless runner 2D com mecânica 'flappy', desenvolvido em Python e Pygame. O objetivo é guiar o 'Super Cão' pelo maior percurso possível, evitando obstáculos com precisão. Colete itens estratégicos, como a Estrela e o Relógio (que desacelera o tempo), para auxiliá-lo a alcançar um novo recorde.
 
 ![Print do Jogo](images/print.png)
 
