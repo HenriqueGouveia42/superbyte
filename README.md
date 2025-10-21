@@ -60,7 +60,7 @@ Siga as instruções abaixo de acordo com o seu sistema operacional.
 1.  **Clone o repositório:**
     Abra seu terminal.
     ```bash
-    git clone [https://github.com/HenriqueGouveia42/superbyte.git](https://github.com/HenriqueGouveia42/superbyte.git)
+    git clone https://github.com/HenriqueGouveia42/superbyte.git
     cd superbyte
     ```
 
