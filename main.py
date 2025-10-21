@@ -74,7 +74,7 @@ pygame.init()
 
 pygame.mixer.init()
 
-pygame.display.set_caption('Flappy Byte')
+pygame.display.set_caption('Super Byte')
 
 telas = Telas(font_path, 36, largura_tela, altura_tela, tela_principal)
 
