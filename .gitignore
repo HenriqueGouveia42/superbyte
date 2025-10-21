@@ -1,0 +1,14 @@
+#pyvenv
+bin/
+include/
+lib/
+lib64
+pyvenv.cfg
+
+#cahe python
+__pycache__/
+*.pyc
+
+#so
+.DS_Store
+Thumbs.db
